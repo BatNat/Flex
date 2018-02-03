@@ -1,2 +1,2 @@
-# Flex
-Project with using flexbox
+# Flexbox
+Парктика с использование flexbox
